@@ -1,2 +1,2 @@
 # Github-Scrapper
-File scrapper in github
+File scrapper for github
